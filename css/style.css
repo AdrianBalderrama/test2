@@ -19,7 +19,7 @@ body {
     text-align: center;
     width: 100vw;
     height: 35vh;
-    background-image: url("C:/Users/Sandman/Desktop/HTML/CSS Grid Website Starter Files/Resources/mountain.jpg");
+    background-image: url("/Resources/mountain.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color:white;
